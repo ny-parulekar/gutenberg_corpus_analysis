@@ -1,0 +1,8 @@
+# no model checkpoints
+*/*/checkpoint-*/
+*.pt
+*vocab.txt
+*tokenizer_config.json
+
+
+Nikita_TransformerApproach/distilbert-base-uncased-finetuned-emotion/
